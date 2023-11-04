@@ -1,0 +1,749 @@
+{
+  "items": [
+    {
+      "name": "Veg Biryani (S/F)",
+      "price": "100/190",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Spl Veg Biryani (S/F)",
+      "price": "210",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Panner Biryani (S/F)",
+      "price": "110/200",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Mushroom Biryani (S/F)",
+      "price": "110/210",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Kaju Biryani (S/F)",
+      "price": "125/220",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Egg Biryani (S/F)",
+      "price": "110/210",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Hyderabadi Dum Biryani (S/F)",
+      "price": "125/240",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Fry Piece Biryani (S/F)",
+      "price": "125/240",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Spl Chicken Biryani",
+      "price": "270",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Wings Biryani (S/F)",
+      "price": "125/240",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Lollypop Biryani (S/F)",
+      "price": "140/250",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Moghlai Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Nizami Chicken Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Tangdi Biryani (S/F)",
+      "price": "140/270",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Ghee Roast Chicken Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Ghee Roast Prawn Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Tikka Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Tandoori Biryani",
+      "price": "320",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Apollo Biryani",
+      "price": "240",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Mutton Biryani",
+      "price": "320",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Prawns Biryani (S/F)",
+      "price": "140/260",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Sambar Rice",
+      "price": "185",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Chicken Meal",
+      "price": "150",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Veg Meals",
+      "price": "70",
+      "category": "Biryani's"
+    },
+    {
+      "name": "Veg Fried Rice (S/F)",
+      "price": "100/160",
+      "category": "Chinese"
+    },
+    {
+      "name": "Veg Noodles",
+      "price": "160",
+      "category": "Chinese"
+    },
+    {
+      "name": "Panner Fried Rice (S/F)",
+      "price": "110/180",
+      "category": "Chinese"
+    },
+    {
+      "name": "Panner Noodles",
+      "price": "180",
+      "category": "Chinese"
+    },
+    {
+      "name": "Mushroom Fried Rice (S/F)",
+      "price": "110/180",
+      "category": "Chinese"
+    },
+    {
+      "name": "Mushroom Noodles",
+      "price": "180",
+      "category": "Chinese"
+    },
+    {
+      "name": "Egg Fried Rice (S/F)",
+      "price": "110/180",
+      "category": "Chinese"
+    },
+    {
+      "name": "Chicken Fried Rice (S/F)",
+      "price": "120/200",
+      "category": "Chinese"
+    },
+    {
+      "name": "Chicken Noodles",
+      "price": "200",
+      "category": "Chinese"
+    },
+    {
+      "name": "Schezwan Chicken Fried Rice (S/F)",
+      "price": "125/210",
+      "category": "Chinese"
+    },
+    {
+      "name": "Schezwan Chicken Noodles",
+      "price": "210",
+      "category": "Chinese"
+    },
+    {
+      "name": "Singapore Chicken Fried Rice (S/F)",
+      "price": "125/210",
+      "category": "Chinese"
+    },
+    {
+      "name": "Singapore Chicken Noodles",
+      "price": "210",
+      "category": "Chinese"
+    },
+    {
+      "name": "Mix Non-Veg Fried Rice",
+      "price": "220",
+      "category": "Chinese"
+    },
+    {
+      "name": "Sp. Chicken Fried Rice",
+      "price": "240",
+      "category": "Chinese"
+    },
+    {
+      "name": "Sp. Veg Fried Rice",
+      "price": "200",
+      "category": "Chinese"
+    },
+    {
+      "name": "Kaju Fried Rice",
+      "price": "190",
+      "category": "Chinese"
+    },
+    {
+      "name": "Sp. Egg Fried Rice",
+      "price": "210",
+      "category": "Chinese"
+    },
+    {
+      "name": "Chicken 65",
+      "price": "200",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken 555",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken Drums Sticks",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken Lollypop",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken Majestic",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken Pakoda",
+      "price": "200",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Crispy Fried Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Dragon Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Lemon Garlic Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Pepper Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Schezwan Chicken",
+      "price": "210",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Stick Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Pere Pere Chicken",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chicken Manchuria (Dry/Wet)",
+      "price": "200/220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chilli Chicken (Dry/Wet)",
+      "price": "200/220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Garlic Chicken (Dry/Wet)",
+      "price": "200/220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Ginger Chicken (Dry/Wet)",
+      "price": "200/220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Mutton Fry",
+      "price": "340",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chilli Egg",
+      "price": "180",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chilli Fish",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Appolo Fish",
+      "price": "220",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Schezwan Fish",
+      "price": "210",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Chilli Prawns",
+      "price": "260",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Lemon Garlic Prawns",
+      "price": "260",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Loose Prawns",
+      "price": "250",
+      "category": "Non-Veg Starters"
+    },
+    {
+      "name": "Paneer Tikka",
+      "price": "160",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Achari Paneer Tikka",
+      "price": "180",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Chicken Tikka (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Tangdi Kabab (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Tandoori Chicken (Half/Full)",
+      "price": "220/400",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Adraki Panchi Kabab (Half/Full)",
+      "price": "200/380",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Hariyali Chicken Tikka (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Reshmi Kabab (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Ajwani Chicken Tikka (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Murgh Malai Kabab (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Angara Kabab (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Kalmi Kabab (Half/Full)",
+      "price": "140/260",
+      "category": "Tandoori Starters"
+    },
+    {
+      "name": "Baby Corn 65",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Baby Corn Manchuria",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Baby Corn Salt & Pepper",
+      "price": "190",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Chilli Baby Corn",
+      "price": "190",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Chilli Mushroom",
+      "price": "190",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Chilli Panner",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Chilli Vegetables",
+      "price": "170",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Paneer 65",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Paneer Pakoda",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Schezwan Panner",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Schezwan Vegetables",
+      "price": "170",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Paneer Majestic",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Singapore Paneer",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Chilli Sticks",
+      "price": "190",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Hongkong Paneer",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Pere Pere Paneer",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Veg Manchuria",
+      "price": "200",
+      "category": "Veg Starters"
+    },
+    {
+      "name": "Egg Masala",
+      "price": "140",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Egg Curry",
+      "price": "120",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Egg Bhurji",
+      "price": "120",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Chicken Curry",
+      "price": "200",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Kadai Chicken",
+      "price": "200",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Chicken Masala",
+      "price": "200",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Guntur Chicken Curry",
+      "price": "220",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Butter Chicken",
+      "price": "240",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Hyderabadi Murgh",
+      "price": "220",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Nizami Chicken Handi",
+      "price": "220",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Chicken Tikka Masala",
+      "price": "240",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Acahri Chicken",
+      "price": "220",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Chicken Kohlapuri",
+      "price": "220",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Mutton Roganjosh",
+      "price": "300",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Mutton Masala",
+      "price": "300",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Kadai Mutton",
+      "price": "300",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Fish Masala",
+      "price": "240",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Prawn Masala",
+      "price": "260",
+      "category": "Non-Veg Main course"
+    },
+    {
+      "name": "Dal Fry",
+      "price": "140",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Dal Tadka",
+      "price": "140",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Shahi Paneer",
+      "price": "180",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Kadai Paneer",
+      "price": "200",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Paneer Kolhapuri",
+      "price": "200",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Paneer Masala",
+      "price": "190",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Paneer Butter Masala",
+      "price": "220",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Kaju Tomato",
+      "price": "200",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Kaju Paneer",
+      "price": "210",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Kaju Masala",
+      "price": "200",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Mushroom Masala",
+      "price": "190",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Mushroom Curry",
+      "price": "190",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Kadai Mushroom",
+      "price": "190",
+      "category": "Veg Main course"
+    },
+    {
+      "name": "Vanilla",
+      "price": "25",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Vanilla - Premium",
+      "price": "40",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Chocolate",
+      "price": "40",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Butterscotch",
+      "price": "40",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Kaju Kismis",
+      "price": "50",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Black Current",
+      "price": "50",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "American Dry Fruits",
+      "price": "50",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Caramel Nuts",
+      "price": "55",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Nutty Delight",
+      "price": "55",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Sapota - Chikoo",
+      "price": "60",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Sitaphal - Custard Apple",
+      "price": "60",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Almond Gibbs",
+      "price": "60",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Mava Badam",
+      "price": "60",
+      "category": "Ice Creams"
+    },
+    {
+      "name": "Roti",
+      "price": "25",
+      "category": "Breads"
+    },
+    {
+      "name": "Butter Roti",
+      "price": "30",
+      "category": "Breads"
+    },
+    {
+      "name": "Naan",
+      "price": "30",
+      "category": "Breads"
+    },
+    {
+      "name": "Butter Naan",
+      "price": "35",
+      "category": "Breads"
+    },
+    {
+      "name": "Garlic Naan",
+      "price": "35",
+      "category": "Breads"
+    },
+    {
+      "name": "Cheese Naan",
+      "price": "40",
+      "category": "Breads"
+    },
+    {
+      "name": "Cheese Garlic Naan",
+      "price": "45",
+      "category": "Breads"
+    },
+    {
+      "name": "Lacha Paratha",
+      "price": "50",
+      "category": "Breads"
+    },
+    {
+      "name": "Masala Kulcha",
+      "price": "60",
+      "category": "Breads"
+    }
+  ]
+}
